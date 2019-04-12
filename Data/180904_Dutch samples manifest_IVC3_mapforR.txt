@@ -1,0 +1,171 @@
+sampID	Pair	UserNumber	BirthDate	SampleDate	studynumber	birthdate	AgeSampling	Group	AgeGroup	BMIgroup	BMI	NowSmoking	BIRTHCOUNTRY	SampleDate	ag	cat1	cat2	pairID	cohortinf	cat3	plate	infstat	D_MSMnonMSM	all_MSMnonMSM	nonMSMmalevfemale
+NDM.2A	2A	AMC450		42180	M27615	24319	48.9	(non-)Dutchnon-MSMmales	45-50yr	Overweight	25	No	Other	42180	A	NDM	NDM	NDM.2	NDM.A	nonMSM	plate1	infected		nonMSM	nonMSM
+NDM.2G	2G	GGD149		42152	P74579	24131	49.3	(non-)Dutchnon-MSMmales	45-50yr	Normalweight	24.51	No	TheNetherlands	42152	G	NDM	NDM	NDM.2	NDM.G	nonMSM	plate1	uninfected	nonMSM	nonMSM	nonMSM
+NDM.3A	3A	AMC373		42151	M15267	24120	49.4	(non-)Dutchnon-MSMmales	45-50yr	Overweight	28.08	No	TheNetherlands	42151	A	NDM	NDM	NDM.3	NDM.A	nonMSM	plate1	infected	nonMSM	nonMSM	nonMSM
+NDM.3G	3G	GGD126		42131	P18435	24021	49.6	(non-)Dutchnon-MSMmales	45-50yr	Normalweight	23.17	No	Other	42131	G	NDM	NDM	NDM.3	NDM.G	nonMSM	plate1	uninfected		nonMSM	nonMSM
+NDM.5A	5A	AMC048		41941	M37287	23639	50.1	(non-)Dutchnon-MSMmales	50-55yr	Normalweight	21.16	Yes	Turkey	41941	A	NDM	NDM	NDM.5	NDM.A	nonMSM	plate1	infected		nonMSM	nonMSM
+NDM.5G	5G	GGD498		41779	P12707	23543	49.9	(non-)Dutchnon-MSMmales	45-50yr	Overweight	27.61	No	Surinam(Creole)	41779	G	NDM	NDM	NDM.5	NDM.G	nonMSM	plate1	uninfected		nonMSM	nonMSM
+NDM.6A	6A	AMC034		41918	M16776	23389	50.7	(non-)Dutchnon-MSMmales	50-55yr	Normalweight	22.73	No	Other	41918	A	NDM	NDM	NDM.6	NDM.A	nonMSM	plate1	infected		nonMSM	nonMSM
+NDM.6G	6G	GGD471		41774	P83545	22800	51.9	(non-)Dutchnon-MSMmales	50-55yr	Overweight	25.58	No	TheNetherlands	41774	G	NDM	NDM	NDM.6	NDM.G	nonMSM	plate1	uninfected	nonMSM	nonMSM	nonMSM
+NDM.7A	7A	AMC396		42153	M25938	23363	51.4	(non-)Dutchnon-MSMmales	50-55yr	Normalweight	21.92	Yes	TheNetherlands	42153	A	NDM	NDM	NDM.7	NDM.A	nonMSM	plate2	infected	nonMSM	nonMSM	nonMSM
+NDM.7G	7G	GGD342		41564	P73115	22731	51.6	(non-)Dutchnon-MSMmales	50-55yr	Obesity	41.52	No	TheNetherlands	41564	G	NDM	NDM	NDM.7	NDM.G	nonMSM	plate2	uninfected	nonMSM	nonMSM	nonMSM
+NDM.8A	8A	AMC613		41766	M30435	23051	51.2	(non-)Dutchnon-MSMmales	50-55yr	Normalweight	22.44	No	TheNetherlands	41766	A	NDM	NDM	NDM.8	NDM.A	nonMSM	plate2	infected	nonMSM	nonMSM	nonMSM
+NDM.8G	8G	GGD483		41879	P61504	22117	54.1	(non-)Dutchnon-MSMmales	50-55yr	Obesity	32.67	No	TheNetherlands	41879	G	NDM	NDM	NDM.8	NDM.G	nonMSM	plate2	uninfected	nonMSM	nonMSM	nonMSM
+NDM.10A	10A	AMC481		42193	M15156	22504	53.9	(non-)Dutchnon-MSMmales	50-55yr	Overweight	27.39	No	TheNetherlands	42193	A	NDM	NDM	NDM.10	NDM.A	nonMSM	plate2	infected	nonMSM	nonMSM	nonMSM
+NDM.10G	10G	GGD169		42163	P63411	23002	52.5	(non-)Dutchnon-MSMmales	50-55yr	Obesity	31.33	No	TheNetherlands	42163	G	NDM	NDM	NDM.10	NDM.G	nonMSM	plate2	uninfected	nonMSM	nonMSM	nonMSM
+NDM.11A	11A	AMC351		42143	M12743	21983	55.2	(non-)Dutchnon-MSMmales	55-60yr	Normalweight	19.73	No	TheNetherlands	42143	A	NDM	NDM	NDM.11	NDM.A	nonMSM	plate2	infected	nonMSM	nonMSM	nonMSM
+NDM.11G	11G	GGD243		42410	P55691	22153	55.5	(non-)Dutchnon-MSMmales	55-60yr	Normalweight	24.6	No	TheNetherlands	42410	G	NDM	NDM	NDM.11	NDM.G	nonMSM	plate2	uninfected	nonMSM	nonMSM	nonMSM
+NDM.12A	12A	AMC411		42193	M20377	21994	55.3	(non-)Dutchnon-MSMmales	55-60yr	Overweight	27.36	Yes	TheNetherlands	42193	A	NDM	NDM	NDM.12	NDM.A	nonMSM	plate1	infected	nonMSM	nonMSM	nonMSM
+NDM.12G	12G	GGD337		41809	P85956	21613	55.3	(non-)Dutchnon-MSMmales	55-60yr	Obesity	32.5	Yes	TheNetherlands	41809	G	NDM	NDM	NDM.12	NDM.G	nonMSM	plate1	uninfected	nonMSM	nonMSM	nonMSM
+NDM.13A	13A	AMC388		42165	M31954	21253	57.3	(non-)Dutchnon-MSMmales	55-60yr	Obesity	32.7	Yes	TheNetherlands	42165	A	NDM	NDM	NDM.13	NDM.A	nonMSM	plate1	infected	nonMSM	nonMSM	nonMSM
+NDM.13G	13G	GGD468		41806	P91494	21412	55.8	(non-)Dutchnon-MSMmales	55-60yr	Normalweight	24.02	Yes	Surinam(otherthanCreoleorHindu)	41806	G	NDM	NDM	NDM.13	NDM.G	nonMSM	plate1	uninfected		nonMSM	nonMSM
+NDM.15A	15A	AMC007		41912	M37676	20234	59.4	(non-)Dutchnon-MSMmales	55-60yr	Overweight	25.56	No	TheNetherlands	41912	A	NDM	NDM	NDM.15	NDM.A	nonMSM	plate1	infected	nonMSM	nonMSM	nonMSM
+NDM.15G	15G	GGD508		41826	P19611	19920	60	(non-)Dutchnon-MSMmales	55-60yr	Overweight	25.57	No	TheNetherlands	41826	G	NDM	NDM	NDM.15	NDM.G	nonMSM	plate1	uninfected	nonMSM	nonMSM	nonMSM
+NDM.17A	17A	AMC624		41766	M18167	18880	62.7	(non-)Dutchnon-MSMmales	60-65yr	Overweight	25.96	No	TheNetherlands	41766	A	NDM	NDM	NDM.17	NDM.A	nonMSM	plate1	infected	nonMSM	nonMSM	nonMSM
+NDM.17G	17G	GGD185		42235	P27991	19759	61.5	(non-)Dutchnon-MSMmales	60-65yr	Normalweight	19.87	Yes	Surinam(otherthanCreoleorHindu)	42235	G	NDM	NDM	NDM.17	NDM.G	nonMSM	plate1	uninfected		nonMSM	nonMSM
+NDM.18G	18G	GGD207		42296	P71086	19561	62.2	(non-)Dutchnon-MSMmales	60-65yr	Overweight	26.48	No	TheNetherlands	42296	G	NDM	NDM	NDM.18	NDM.G	nonMSM	plate2	uninfected	nonMSM	nonMSM	nonMSM
+NDM.18A	18A	AMC465		42261	M11030	19555	62.2	(non-)Dutchnon-MSMmales	60-65yr	Obesity	30.41	No	TheNetherlands	42261	A	NDM	NDM	NDM.18	NDM.A	nonMSM	plate2	infected	nonMSM	nonMSM	nonMSM
+NDM.19A	19A	AMC175		42191	M28123	18971	63.6	(non-)Dutchnon-MSMmales	60-65yr	Overweight	28.2	No	Other	42191	A	NDM	NDM	NDM.19	NDM.A	nonMSM	plate2	infected		nonMSM	nonMSM
+NDM.19G	19G	GGD127		42145	P60981	19182	62.9	(non-)Dutchnon-MSMmales	60-65yr	Overweight	26.06	Yes	TheNetherlands	42145	G	NDM	NDM	NDM.19	NDM.G	nonMSM	plate2	uninfected	nonMSM	nonMSM	nonMSM
+NDM.20A	20A	AMC036		41926	M11180	18629	63.8	(non-)Dutchnon-MSMmales	60-65yr	Obesity	30.12	No	TheNetherlands	41926	A	NDM	NDM	NDM.20	NDM.A	nonMSM	plate2	infected	nonMSM	nonMSM	nonMSM
+NDM.20G	20G	GGD233		42269	P40671	19289	62.9	(non-)Dutchnon-MSMmales	60-65yr	Obesity	31.73	Yes	TheNetherlands	42269	G	NDM	NDM	NDM.20	NDM.G	nonMSM	plate2	uninfected	nonMSM	nonMSM	nonMSM
+NDM.21A	21A	AMC013		41920	M10599	16517	69.5	(non-)Dutchnon-MSMmales	65+yr	Normalweight	22.35	Yes	TheNetherlands	41920	A	NDM	NDM	NDM.21	NDM.A	nonMSM	plate2	infected	nonMSM	nonMSM	nonMSM
+NDM.21G	21G	GGD102		42135	P40663	17935	66.3	(non-)Dutchnon-MSMmales	65+yr	Normalweight	22.38	Yes	TheNetherlands	42135	G	NDM	NDM	NDM.21	NDM.G	nonMSM	plate2	uninfected	nonMSM	nonMSM	nonMSM
+NDM.22A	22A	AMC487		42201	M12820	16097	71.5	(non-)Dutchnon-MSMmales	65+yr	Overweight	29.03	No	TheNetherlands	42201	A	NDM	NDM	NDM.22	NDM.A	nonMSM	plate1	infected	nonMSM	nonMSM	nonMSM
+NDM.22G	22G	GGD373		41597	P97498	17008	67.3	(non-)Dutchnon-MSMmales	65+yr	Normalweight	24.23	No	Surinam(Creole)	41597	G	NDM	NDM	NDM.22	NDM.G	nonMSM	plate1	uninfected		nonMSM	nonMSM
+NDM.23A	23A	AMC369		42130	M36971	18611	64.4	(non-)Dutchnon-MSMmales	60-65yr	Obesity	34.45	No	TheNetherlands	42130	A	NDM	NDM	NDM.23	NDM.A	nonMSM	plate1	infected	nonMSM	nonMSM	nonMSM
+NDM.23G	23G	GGD343		41585	P62873	17386	66.3	(non-)Dutchnon-MSMmales	65+yr	Overweight	29.1	No	TheNetherlands	41585	G	NDM	NDM	NDM.23	NDM.G	nonMSM	plate1	uninfected	nonMSM	nonMSM	nonMSM
+NDM.24A	24A	AMC226		41891	M20463	22789	52.3	(non-)Dutchnon-MSMmales	50-55yr	Normalweight	21.62	Yes	NetherlandsAntillesorAruba	41891	A	NDM	NDM	NDM.24	NDM.A	nonMSM	plate2	infected		nonMSM	nonMSM
+NDM.24G	24G	GGD139		42276	P52678	23961	50.1	(non-)Dutchnon-MSMmales	50-55yr	Normalweight	21.79	No	TheNetherlands	42276	G	NDM	NDM	NDM.24	NDM.G	nonMSM	plate2	uninfected	nonMSM	nonMSM	nonMSM
+NDM.25A	25A	AMC382		42137	M34128	23037	52.3	(non-)Dutchnon-MSMmales	50-55yr	Obesity	31.23	Yes	Surinam(Creole)	42137	A	NDM	NDM	NDM.25	NDM.A	nonMSM	plate2	infected		nonMSM	nonMSM
+NDM.25G	25G	GGD352		41598	P89729	21783	54.3	(non-)Dutchnon-MSMmales	50-55yr	Normalweight	20.08	Yes	TheNetherlands	41598	G	NDM	NDM	NDM.25	NDM.G	nonMSM	plate2	uninfected	nonMSM	nonMSM	nonMSM
+FND.1A	1A	AMC454		41808	M20380	24513	47.4	(non-)Dutchfemales	45-50yr	Normalweight	22.71	No	TheNetherlands	41808	A	FND	FND	FND.1	FND.A	nonMSM	plate2	infected			FND
+FND.1G	1G	GGD401		41913	P70676	24227	48.4	(non-)Dutchfemales	45-50yr	Normalweight	23.81	Yes	TheNetherlands	41913	G	FND	FND	FND.1	FND.G	nonMSM	plate2	uninfected			FND
+FND.2A	2A	AMC079		41928	M15217	23951	49.2	(non-)Dutchfemales	45-50yr	Overweight	25.16	No	Other	41928	A	FND	FND	FND.2	FND.A	nonMSM	plate2	infected			FND
+FND.2G	2G	GGD458		41795	P53808	23551	49.9	(non-)Dutchfemales	45-50yr	Overweight	28.35	Yes	Other	41795	G	FND	FND	FND.2	FND.G	nonMSM	plate2	uninfected			FND
+FND.3A	3A	AMC086		42025	M31757	23974	49.4	(non-)Dutchfemales	45-50yr	Normalweight	19.79	Yes	TheNetherlands	42025	A	FND	FND	FND.3	FND.A	nonMSM	plate2	infected			FND
+FND.3G	3G	GGD311		41781	P24139	23529	50	(non-)Dutchfemales	45-50yr	Normalweight	22.91	Yes	TheNetherlands	41781	G	FND	FND	FND.3	FND.G	nonMSM	plate2	uninfected			FND
+FND.4A	4A	AMC318		42146	M10539	23804	50.2	(non-)Dutchfemales	50-55yr	Overweight	26.2	No	Other	42146	A	FND	FND	FND.4	FND.A	nonMSM	plate2	infected			FND
+FND.4G	4G	GGD378		41659	P84297	22119	53.5	(non-)Dutchfemales	50-55yr	Obesity	31.69	No	Surinam(Creole)	41659	G	FND	FND	FND.4	FND.G	nonMSM	plate2	uninfected			FND
+FND.5A	5A	AMC442		42173	M26830	23801	50.3	(non-)Dutchfemales	50-55yr	Normalweight	19.31	Yes	TheNetherlands	42173	A	FND	FND	FND.5	FND.A	nonMSM	plate1	infected			FND
+FND.5G	5G	GGD179		42234	P69637	23860	50.3	(non-)Dutchfemales	50-55yr	Overweight	28.16	No	Other	42234	G	FND	FND	FND.5	FND.G	nonMSM	plate1	uninfected			FND
+FND.7A	7A	AMC523		41646	M10601	22865	51.4	(non-)Dutchfemales	50-55yr	Normalweight	22.07	No	TheNetherlands	41646	A	FND	FND	FND.7	FND.A	nonMSM	plate1	infected			FND
+FND.7G	7G	GGD157		42163	P70299	23378	51.4	(non-)Dutchfemales	50-55yr	Normalweight	22.11	No	TheNetherlands	42163	G	FND	FND	FND.7	FND.G	nonMSM	plate1	uninfected			FND
+FND.8A	8A	AMC273		41528	M25667	22301	52.6	(non-)Dutchfemales	50-55yr	Obesity	31.41	Yes	Other	41528	A	FND	FND	FND.8	FND.A	nonMSM	plate1	infected			FND
+FND.8G	8G	GGD113		42130	P28985	23106	52.1	(non-)Dutchfemales	50-55yr	Normalweight	21.1	No	TheNetherlands	42130	G	FND	FND	FND.8	FND.G	nonMSM	plate1	uninfected			FND
+FND.9A	9A	AMC241		42078	M12878	22532	53.5	(non-)Dutchfemales	50-55yr	Normalweight	24.92	No	Other	42078	A	FND	FND	FND.9	FND.A	nonMSM	plate1	infected			FND
+FND.9G	9G	GGD232		42289	P66243	22592	53.9	(non-)Dutchfemales	50-55yr	Normalweight	21.11	Yes	NetherlandsAntillesorAruba	42289	G	FND	FND	FND.9	FND.G	nonMSM	plate1	uninfected			FND
+FND.10A	10A	AMC374		42150	M12984	22346	54.2	(non-)Dutchfemales	50-55yr	Normalweight	24.54	No	TheNetherlands	42150	A	FND	FND	FND.10	FND.A	nonMSM	plate2	infected			FND
+FND.10G	10G	GGD090		42080	P65536	22187	54.5	(non-)Dutchfemales	50-55yr	Normalweight	21.45	No	TheNetherlands	42080	G	FND	FND	FND.10	FND.G	nonMSM	plate2	uninfected			FND
+FND.11A	11A	AMC333		42143	M10988	22011	55.1	(non-)Dutchfemales	55-60yr	Normalweight	19.91	No	TheNetherlands	42143	A	FND	FND	FND.11	FND.A	nonMSM	plate2	infected			FND
+FND.11G	11G	GGD526		41879	P53604	21686	55.3	(non-)Dutchfemales	55-60yr	Normalweight	24.98	No	Surinam(Creole)	41879	G	FND	FND	FND.11	FND.G	nonMSM	plate2	uninfected			FND
+FND.12A	12A	AMC522		42319	M11836	21582	56.8	(non-)Dutchfemales	55-60yr	Normalweight	20.53	Yes	Other	42319	A	FND	FND	FND.12	FND.A	nonMSM	plate2	infected			FND
+FND.12G	12G	GGD368		41605	P21831	20999	56.4	(non-)Dutchfemales	55-60yr	Overweight	29.02	Yes	Surinam(Creole)	41605	G	FND	FND	FND.12	FND.G	nonMSM	plate2	uninfected			FND
+FND.13A	13A	AMC518		41778	M38855	20648	57.9	(non-)Dutchfemales	55-60yr	Normalweight	23.77	No	Surinam(Creole)	41778	A	FND	FND	FND.13	FND.A	nonMSM	plate1	infected			FND
+FND.13G	13G	GGD085		42169	P55741	20766	58.6	(non-)Dutchfemales	55-60yr	Normalweight	23.3	No	TheNetherlands	42169	G	FND	FND	FND.13	FND.G	nonMSM	plate2	uninfected			FND
+FND.14A	14A	AMC518		42306	M38855	20648	59.3	(non-)Dutchfemales	55-60yr	Normalweight	23.77	No	Surinam(Creole)	42306	A	FND	FND	FND.14	FND.A	nonMSM	plate1	infected			FND
+FND.14G	14G	GGD171		42255	P81309	20791	58.8	(non-)Dutchfemales	55-60yr	Overweight	29.82	No	Surinam(Creole)	42255	G	FND	FND	FND.14	FND.G	nonMSM	plate1	uninfected			FND
+FND.15A	15A	AMC365		42179	M13099	20312	59.9	(non-)Dutchfemales	55-60yr	Obesity	32.41	No	Other	42179	A	FND	FND	FND.15	FND.A	nonMSM	plate1	infected			FND
+FND.15G	15G	GGD181		42354	P47652	20860	58.8	(non-)Dutchfemales	55-60yr	Overweight	25.62	No	Surinam(Creole)	42354	G	FND	FND	FND.15	FND.G	nonMSM	plate1	uninfected			FND
+FND.16A	16A	AMC460		42193	M27005	20049	60.6	(non-)Dutchfemales	60-65yr	Overweight	26.36	No	TheNetherlands	42193	A	FND	FND	FND.16	FND.A	nonMSM	plate1	infected			FND
+FND.16G	16G	GGD158		42144	P58030	20088	60.4	(non-)Dutchfemales	60-65yr	Normalweight	24.49	No	TheNetherlands	42144	G	FND	FND	FND.16	FND.G	nonMSM	plate1	uninfected			FND
+FND.17A	17A	AMC542		41606	M29086	18970	62	(non-)Dutchfemales	60-65yr	Overweight	26.13	No	Other	41606	A	FND	FND	FND.17	FND.A	nonMSM	plate1	infected			FND
+FND.17G	17G	GGD262		42305	P47923	19845	61.5	(non-)Dutchfemales	60-65yr	Normalweight	22.74	Yes	Other	42305	G	FND	FND	FND.17	FND.G	nonMSM	plate1	uninfected			FND
+FND.18A	18A	AMC224		41576	M15213	13905	75.8	(non-)Dutchfemales	65+yr	Obesity	30.84	No	TheNetherlands	41576	A	FND	FND	FND.18	FND.A	nonMSM	plate1	infected			FND
+FND.18G	18G	GGD236		42302	P85096	17571	67.7	(non-)Dutchfemales	65+yr	Obesity	33.99	No	TheNetherlands	42302	G	FND	FND	FND.18	FND.G	nonMSM	plate1	uninfected			FND
+FND.19A	19A	AMC437		41577	M14983	23064	50.7	(non-)Dutchfemales	50-55yr	Overweight	25.73	No	NetherlandsAntillesorAruba	41577	A	FND	FND	FND.19	FND.A	nonMSM	plate2	infected			FND
+FND.19G	19G	GGD245		42327	P62802	23920	50.4	(non-)Dutchfemales	50-55yr	Obesity	30.65	No	Surinam(Creole)	42327	G	FND	FND	FND.19	FND.G	nonMSM	plate2	uninfected			FND
+FND.20A	20A	AMC474		41557	M12771	22974	50.9	(non-)Dutchfemales	50-55yr	Normalweight	22.87	Yes	TheNetherlands	41557	A	FND	FND	FND.20	FND.A	nonMSM	plate1	infected			FND
+FND.20G	20G	GGD146		42233	P61494	23108	52.4	(non-)Dutchfemales	50-55yr	Obesity	36.17	No	Other	42233	G	FND	FND	FND.20	FND.G	nonMSM	plate2	uninfected			FND
+FND.21A	21A	AMC283		42160	M27905	23191	51.9	(non-)Dutchfemales	50-55yr	Obesity	38.33	Yes	NetherlandsAntillesorAruba	42160	A	FND	FND	FND.21	FND.A	nonMSM	plate2	infected			FND
+FND.21G	21G	GGD045		42031	P24631	22682	53	(non-)Dutchfemales	50-55yr	Normalweight	21.59	No	Surinam(otherthanCreoleorHindu)	42031	G	FND	FND	FND.21	FND.G	nonMSM	plate2	uninfected			FND
+FND.22A	22A	AMC474		42193	M12771	22974	52.6	(non-)Dutchfemales	50-55yr	Normalweight	22.87	Yes	TheNetherlands	42193	A	FND	FND	FND.22	FND.A	nonMSM	plate1	infected			FND
+FND.22G	22G	GGD091		42193	P20535	22715	53.3	(non-)Dutchfemales	50-55yr	Normalweight	21.76	Yes	TheNetherlands	42193	G	FND	FND	FND.22	FND.G	nonMSM	plate1	uninfected			FND
+MD.1A	1A	AMC625		41766	M35893	24613	47	DutchMSM	45-50yr	Normalweight	22.57	No	TheNetherlands	41766	A	MD	MD	MD.1	MD.A	MSM	plate1	infected	MSM	MSM	
+MD.1G	1G	GGD501		41807	P55790	24607	47.1	DutchMSM	45-50yr	Normalweight	24.04	Yes	TheNetherlands	41807	G	MD	MD	MD.1	MD.G	MSM	plate1	uninfected	MSM	MSM	
+MD.2A	2A	AMC593		41751	M27193	24458	47.3	DutchMSM	45-50yr	Normalweight	22.19	Yes	TheNetherlands	41751	A	MD	MD	MD.2	MD.A	MSM	plate1	infected	MSM	MSM	
+MD.2G	2G	GGD334		41557	P15382	24283	47.3	DutchMSM	45-50yr	Overweight	25.3	No	TheNetherlands	41557	G	MD	MD	MD.2	MD.G	MSM	plate1	uninfected	MSM	MSM	
+MD.4A	4A	AMC618		41766	M14909	24037	48.5	DutchMSM	45-50yr	Normalweight	24.56	No	TheNetherlands	41766	A	MD	MD	MD.4	MD.A	MSM	plate1	infected	MSM	MSM	
+MD.4G	4G	GGD402		41661	P62355	23997	48.4	DutchMSM	45-50yr	Normalweight	22.87	No	TheNetherlands	41661	G	MD	MD	MD.4	MD.G	MSM	plate1	uninfected	MSM	MSM	
+MD.5A	5A	AMC480		42263	M34712	24315	49.1	DutchMSM	45-50yr	Normalweight	22.79	No	TheNetherlands	42263	A	MD	MD	MD.5	MD.A	MSM	plate2	infected	MSM	MSM	
+MD.5G	5G	GGD151		42177	P51942	24225	49.1	DutchMSM	45-50yr	Normalweight	23.81	No	TheNetherlands	42177	G	MD	MD	MD.5	MD.G	MSM	plate2	uninfected	MSM	MSM	
+MD.7A	7A	AMC508		41596	M31553	23298	50.1	DutchMSM	50-55yr	Overweight	25.95	No	TheNetherlands	41596	A	MD	MD	MD.7	MD.A	MSM	plate2	infected	MSM	MSM	
+MD.7G	7G	GGD162		42171	P86263	23859	50.1	DutchMSM	50-55yr	Overweight	26.65	No	TheNetherlands	42171	G	MD	MD	MD.7	MD.G	MSM	plate2	uninfected	MSM	MSM	
+MD.8A	8A	AMC156		42012	M30882	23630	50.3	DutchMSM	50-55yr	Normalweight	24.34	No	TheNetherlands	42012	A	MD	MD	MD.8	MD.A	MSM	plate1	infected	MSM	MSM	
+MD.8G	8G	GGD178		42299	P64809	23921	50.3	DutchMSM	50-55yr	Normalweight	24.72	No	TheNetherlands	42299	G	MD	MD	MD.8	MD.G	MSM	plate1	uninfected	MSM	MSM	
+MD.9A	9A	AMC561		42355	M38173	23089	52.7	DutchMSM	50-55yr	Normalweight	23.58	No	TheNetherlands	42355	A	MD	MD	MD.9	MD.A	MSM	plate1	infected	MSM	MSM	
+MD.9G	9G	GGD488		41767	P41611	22479	52.8	DutchMSM	50-55yr	Normalweight	22.24	No	TheNetherlands	41767	G	MD	MD	MD.9	MD.G	MSM	plate1	uninfected	MSM	MSM	
+MD.10A	10A	AMC354		42123	M33991	22381	54.1	DutchMSM	50-55yr	Normalweight	24.66	No	TheNetherlands	42123	A	MD	MD	MD.10	MD.A	MSM	plate2	infected	MSM	MSM	
+MD.10G	10G	GGD196		42222	P29372	22497	54	DutchMSM	50-55yr	Normalweight	22.55	No	TheNetherlands	42222	G	MD	MD	MD.10	MD.G	MSM	plate2	uninfected	MSM	MSM	
+MD.11A	11A	AMC312		42074	M10231	21812	55.5	DutchMSM	55-60yr	Normalweight	19.06	No	TheNetherlands	42074	A	MD	MD	MD.11	MD.A	MSM	plate2	infected	MSM	MSM	
+MD.11G	11G	GGD527		41925	P56193	21680	55.4	DutchMSM	55-60yr	Normalweight	22.88	No	TheNetherlands	41925	G	MD	MD	MD.11	MD.G	MSM	plate2	uninfected	MSM	MSM	
+MD.12A	12A	AMC412		42192	M20139	21686	56.1	DutchMSM	55-60yr	Normalweight	23.74	No	TheNetherlands	42192	A	MD	MD	MD.12	MD.A	MSM	plate2	infected	MSM	MSM	
+MD.12G	12G	GGD551		41822	P59114	21324	56.1	DutchMSM	55-60yr	Normalweight	22.89	No	TheNetherlands	41822	G	MD	MD	MD.12	MD.G	MSM	plate2	uninfected	MSM	MSM	
+MD.13A	13A	AMC180		42031	M11332	21462	56.3	DutchMSM	55-60yr	Normalweight	22.94	No	TheNetherlands	42031	A	MD	MD	MD.13	MD.A	MSM	plate2	infected	MSM	MSM	
+MD.13G	13G	GGD032		41975	P79994	21388	56.4	DutchMSM	55-60yr	Normalweight	21.98	No	TheNetherlands	41975	G	MD	MD	MD.13	MD.G	MSM	plate2	uninfected	MSM	MSM	
+MD.14A	14A	AMC621		41780	M39761	21049	56.8	DutchMSM	55-60yr	Normalweight	21.52	No	TheNetherlands	41780	A	MD	MD	MD.14	MD.A	MSM	plate1	infected	MSM	MSM	
+MD.14G	14G	GGD208		42263	P26439	21589	56.6	DutchMSM	55-60yr	Normalweight	23.74	No	TheNetherlands	42263	G	MD	MD	MD.14	MD.G	MSM	plate1	uninfected	MSM	MSM	
+MD.15A	15A	AMC232		42088	M30064	21246	57.1	DutchMSM	55-60yr	Overweight	27.56	No	TheNetherlands	42088	A	MD	MD	MD.15	MD.A	MSM	plate1	infected	MSM	MSM	
+MD.15G	15G	GGD376		41710	P58468	20859	57.1	DutchMSM	55-60yr	Overweight	28.34	No	TheNetherlands	41710	G	MD	MD	MD.15	MD.G	MSM	plate1	uninfected	MSM	MSM	
+MD.17A	17A	AMC502		41591	M28054	19358	60.9	DutchMSM	60-65yr	Normalweight	23.99	No	TheNetherlands	41591	A	MD	MD	MD.17	MD.A	MSM	plate1	infected	MSM	MSM	
+MD.17G	17G	GGD404		41645	P13369	19461	60.7	DutchMSM	60-65yr	Normalweight	24.55	No	TheNetherlands	41645	G	MD	MD	MD.17	MD.G	MSM	plate1	uninfected	MSM	MSM	
+MD.18A	18A	AMC124		42017	M26074	19490	61.7	DutchMSM	60-65yr	Overweight	26.64	No	TheNetherlands	42017	A	MD	MD	MD.18	MD.A	MSM	plate1	infected	MSM	MSM	
+MD.18G	18G	GGD321		41568	P73657	19055	61.6	DutchMSM	60-65yr	Overweight	29.35	No	TheNetherlands	41568	G	MD	MD	MD.18	MD.G	MSM	plate1	uninfected	MSM	MSM	
+MD.19A	19A	AMC449		42165	M10778	19050	63.3	DutchMSM	60-65yr	Normalweight	20.56	No	TheNetherlands	42165	A	MD	MD	MD.19	MD.A	MSM	plate2	infected	MSM	MSM	
+MD.19G	19G	GGD331		41571	P36174	18461	63.3	DutchMSM	60-65yr	Normalweight	22.93	No	TheNetherlands	41571	G	MD	MD	MD.19	MD.G	MSM	plate2	uninfected	MSM	MSM	
+MD.20A	20A	AMC401		42240	M12123	18720	64.4	DutchMSM	60-65yr	Normalweight	24.47	No	TheNetherlands	42240	A	MD	MD	MD.20	MD.A	MSM	plate2	infected	MSM	MSM	
+MD.20G	20G	GGD112		42292	P55489	18759	64.4	DutchMSM	60-65yr	Normalweight	21.46	No	TheNetherlands	42292	G	MD	MD	MD.20	MD.G	MSM	plate2	uninfected	MSM	MSM	
+MD.21A	21A	AMC009		42067	M17764	18133	65.5	DutchMSM	65+yr	Normalweight	23.27	No	TheNetherlands	42067	A	MD	MD	MD.21	MD.A	MSM	plate2	infected	MSM	MSM	
+MD.21G	21G	GGD331		42390	P36174	18461	65.5	DutchMSM	65+yr	Normalweight	22.93	No	TheNetherlands	42390	G	MD	MD	MD.21	MD.G	MSM	plate2	uninfected	MSM	MSM	
+MD.22A	22A	AMC576		41662	M32346	17301	66.7	DutchMSM	65+yr	Overweight	27.31	No	TheNetherlands	41662	A	MD	MD	MD.22	MD.A	MSM	plate2	infected	MSM	MSM	
+MD.22G	22G	GGD339		41575	P14712	17315	66.4	DutchMSM	65+yr	Overweight	25.47	No	TheNetherlands	41575	G	MD	MD	MD.22	MD.G	MSM	plate2	uninfected	MSM	MSM	
+MD.23A	23A	AMC295		42108	M33066	17394	67.7	DutchMSM	65+yr	Normalweight	21.98	No	TheNetherlands	42108	A	MD	MD	MD.23	MD.A	MSM	plate1	infected	MSM	MSM	
+MD.23G	23G	GGD481		41723	P74578	17066	67.5	DutchMSM	65+yr	Normalweight	21.3	No	TheNetherlands	41723	G	MD	MD	MD.23	MD.G	MSM	plate1	uninfected	MSM	MSM	
+old.026A	026A	AMC614		41737	M28966		47.1	DutchMSM	45-50yr	Normalweight	22.78360176	Yes	TheNetherlands		A	MD	old	old.026	MD.A	MSM	plate1	infected	MSM	MSM	
+old.026G	026G	GGD492		41753	P69292		47.1	DutchMSM	45-50yr	Overweight	25.10795403	No	TheNetherlands		G	MD	old	old.026	MD.G	MSM	plate1	uninfected	MSM	MSM	
+old.027A	027A	AMC492		41584	M33290		47.4	DutchMSM	45-50yr	Normalweight	24.28675652	Yes	TheNetherlands		A	MD	old	old.027	MD.A	MSM	plate1	infected	MSM	MSM	
+old.027G	027G	GGD363		41619	P45735		47.7	DutchMSM	45-50yr	Normalweight	20.75638771	Yes	TheNetherlands		G	MD	old	old.027	MD.G	MSM	plate1	uninfected	MSM	MSM	
+old.028A	028A	AMC486		41611	M38528		47.7	DutchMSM	45-50yr	Overweight	27.72826958	Yes	TheNetherlands		A	MD	old	old.028	MD.A	MSM	plate1	infected	MSM	MSM	
+old.028G	028G	GGD394		41613	P83378		48.1	DutchMSM	45-50yr	Normalweight	23.19196892	No	TheNetherlands		G	MD	old	old.028	MD.G	MSM	plate1	uninfected	MSM	MSM	
+old.029A	029A	AMC494		41676	M38955		48.6	DutchMSM	45-50yr	Overweight	26.98692703	No	TheNetherlands		A	MD	old	old.029	MD.A	MSM	plate2	infected	MSM	MSM	
+old.029G	029G	GGD357		41704	P37539		48.6	DutchMSM	45-50yr	Normalweight	24.36299896	No	TheNetherlands		G	MD	old	old.029	MD.G	MSM	plate2	uninfected	MSM	MSM	
+old.030A	030A	AMC603		41730	M26966		49	DutchMSM	45-50yr	Normalweight	21.80989647	Yes	TheNetherlands		A	MD	old	old.030	MD.A	MSM	plate2	infected	MSM	MSM	
+old.030G	030G	GGD487		41751	P39369		48.7	DutchMSM	45-50yr	Overweight	27.55295944	No	TheNetherlands		G	MD	old	old.030	MD.G	MSM	plate2	uninfected	MSM	MSM	
+old.031A	031A	AMC470		41617	M29762		50.2	DutchMSM	50-55yr	Normalweight	23.23151016	Yes	TheNetherlands		A	MD	old	old.031	MD.A	MSM	plate2	infected	MSM	MSM	
+old.031G	031G	GGD359		41618	P57989		50.2	DutchMSM	50-55yr	Overweight	28.52930832	Yes	TheNetherlands		G	MD	old	old.031	MD.G	MSM	plate2	uninfected	MSM	MSM	
+old.032A	032A	AMC054		42025	M27248		50.4	DutchMSM	50-55yr	Normalweight	22.51996422	No	TheNetherlands		A	MD	old	old.032	MD.A	MSM	plate2	infected	MSM	MSM	
+old.032G	032G	GGD390		41666	P60512		50.4	DutchMSM	50-55yr	Overweight	27.42512894	No	TheNetherlands		G	MD	old	old.032	MD.G	MSM	plate2	uninfected	MSM	MSM	
+old.033A	033A	AMC216		42046	M28769		52.1	DutchMSM	50-55yr	Normalweight	23.35180092	Yes	TheNetherlands		A	MD	old	old.033	MD.A	MSM	plate1	infected	MSM	MSM	
+old.033G	033G	GGD060		42039	P45604		52.1	DutchMSM	50-55yr	Normalweight	22.69674683	Yes	TheNetherlands		G	MD	old	old.033	MD.G	MSM	plate1	uninfected	MSM	MSM	
+old.034A	034A	GGD153		41589	P48226		53.1	DutchMSM	50-55yr	Normalweight	24.60694885	No	TheNetherlands		A	MD	old	old.034	MD.A	MSM	plate1	infected	MSM	MSM	
+old.034G	034G	AMC515		41591	M12234		53	DutchMSM	50-55yr	Overweight	26.86980629	No	TheNetherlands		G	MD	old	old.034	MD.G	MSM	plate1	uninfected	MSM	MSM	
+old.035A	035A	AMC092		42018	M37388		54.2	DutchMSM	50-55yr	Obesity	31.3407402	No	TheNetherlands		A	MD	old	old.035	MD.A	MSM	plate1	infected	MSM	MSM	
+old.035G	035G	GGD315		42387	P39102		54.2	DutchMSM	50-55yr	Normalweight	19.86475182	No	TheNetherlands		G	MD	old	old.035	MD.G	MSM	plate1	uninfected	MSM	MSM	
+old.036A	036A	AMC620		41758	M35730		55.4	DutchMSM	55-60yr	Normalweight	24.39446449	No	TheNetherlands		A	MD	old	old.036	MD.A	MSM	plate1	infected	MSM	MSM	
+old.036G	036G	GGD029		42009	P30367		55.3	DutchMSM	55-60yr	Normalweight	23.13477707	No	TheNetherlands		G	MD	old	old.036	MD.G	MSM	plate1	uninfected	MSM	MSM	
+old.037A	037A	AMC501		41590	M16175		55.5	DutchMSM	55-60yr	Overweight	28.52159691	Yes	TheNetherlands		A	MD	old	old.037	MD.A	MSM	plate2	infected	MSM	MSM	
+old.037G	037G	GGD114		42095	P54603		55.5	DutchMSM	55-60yr	Overweight	25.4629631	No	TheNetherlands		G	MD	old	old.037	MD.G	MSM	plate2	uninfected	MSM	MSM	
+old.038A	038A	AMC567		41702	M12454		58.2	DutchMSM	55-60yr	Overweight	28.91889191	Yes	TheNetherlands		A	MD	old	old.038	MD.A	MSM	plate2	infected	MSM	MSM	
+old.038G	038G	GGD440		41724	P77516		57.9	DutchMSM	55-60yr	Normalweight	19.50247574	Yes	TheNetherlands		G	MD	old	old.038	MD.G	MSM	plate2	uninfected	MSM	MSM	
+old.039G	039G	GGD299		42345	P99271		58.8	DutchMSM	55-60yr	Normalweight	23.88844109	No	TheNetherlands		G	MD	old	old.039	MD.G	MSM	plate2	uninfected	MSM	MSM	
+old.040A	040A	AMC579		41666	M11959		59.4	DutchMSM	55-60yr	Normalweight	22.17019272	No	TheNetherlands		A	MD	old	old.040	MD.A	MSM	plate2	infected	MSM	MSM	
+old.040G	040G	GGD124		42103	P93336		59	DutchMSM	55-60yr	Normalweight	24.16666794	No	TheNetherlands		G	MD	old	old.040	MD.G	MSM	plate2	uninfected	MSM	MSM	
+old.041A	041A	AMC325		42117	M14878		61.8	DutchMSM	60-65yr	Normalweight	21.37586975	No	TheNetherlands		A	MD	old	old.041	MD.A	MSM	plate2	infected	MSM	MSM	
+old.041G	041G	GGD093		42075	P44102		62	DutchMSM	60-65yr	Normalweight	24.5370369	Yes	TheNetherlands		G	MD	old	old.041	MD.G	MSM	plate1	uninfected	MSM	MSM	
+old.042A	042A	AMC502		42312	M28054		62.8	DutchMSM	60-65yr	Normalweight	23.98999977	No	TheNetherlands		A	MD	old	old.042	MD.A	MSM	plate1	infected	MSM	MSM	
+old.042G	042G	GGD131		42114	P82138		62.8	DutchMSM	60-65yr	Overweight	25.52979088	No	TheNetherlands		G	MD	old	old.042	MD.G	MSM	plate1	uninfected	MSM	MSM	
+old.043A	043A	AMC231		42088	M30036		63.5	DutchMSM	60-65yr	Normalweight	21.76669502	No	TheNetherlands		A	MD	old	old.043	MD.A	MSM	plate1	infected	MSM	MSM	
+old.043G	043G	GGD369		41612	P22081		63.5	DutchMSM	60-65yr	Overweight	25.02672768	No	TheNetherlands		G	MD	old	old.043	MD.G	MSM	plate1	uninfected	MSM	MSM	
+old.044A	044A	AMC260		42067	M11317		63.9	DutchMSM	60-65yr	Normalweight	18.69683266	No	TheNetherlands		A	MD	old	old.044	MD.A	MSM	plate1	infected	MSM	MSM	
+old.044G	044G	GGD203		42394	P13499		63.9	DutchMSM	60-65yr	Overweight	25.95871735	No	TheNetherlands		G	MD	old	old.044	MD.G	MSM	plate1	uninfected	MSM	MSM	
+old.045A	045A	AMC302		42093	M36110		64.3	DutchMSM	60-65yr	Overweight	28.07617188	No	TheNetherlands		A	MD	old	old.045	MD.A	MSM	plate1	infected	MSM	MSM	
+old.045G	045G	GGD412		41688	P50204		64.3	DutchMSM	60-65yr	Normalweight	23.74796486	No	TheNetherlands		G	MD	old	old.045	MD.G	MSM	plate2	uninfected	MSM	MSM	
+old.046A	046A	AMC299		42088	M13098		69	DutchMSM	65+yr	Overweight	25.790802	No	TheNetherlands		A	MD	old	old.046	MD.A	MSM	plate2	infected	MSM	MSM	
+old.046G	046G	GGD472		41757	P13216		69.9	DutchMSM	65+yr	Obesity	34.5178833	No	TheNetherlands		G	MD	old	old.046	MD.G	MSM	plate2	uninfected	MSM	MSM	
+old.047A	047A	AMC256		42088	M34346		72.1	DutchMSM	65+yr	Overweight	27.13087463	No	TheNetherlands		A	MD	old	old.047	MD.A	MSM	plate2	infected	MSM	MSM	
+old.048A	048A	AMC358		42110	M31231		75.5	DutchMSM	65+yr	Overweight	27.61341095	No	TheNetherlands		A	MD	old	old.048	MD.A	MSM	plate2	infected	MSM	MSM	
+old.048G	048G	GGD317		41590	P63909		75.6	DutchMSM	65+yr	Normalweight	22.88371086	No	TheNetherlands		G	MD	old	old.048	MD.G	MSM	plate2	uninfected	MSM	MSM	
+old.049A	049A	AMC533		42334	M19963		76	DutchMSM	65+yr	Normalweight	19.0194416	No	TheNetherlands		A	MD	old	old.049	MD.A	MSM	plate2	infected	MSM	MSM	
+old.049G	049G	GGD362		41582	P22203		79.2	DutchMSM	65+yr	Overweight	29.64871407	No	TheNetherlands		G	MD	old	old.049	MD.G	MSM	plate2	uninfected	MSM	MSM	
+old.050A	050A	AMC324		42116	M15151		76.1	DutchMSM	65+yr	Overweight	25.98231697	No	TheNetherlands		A	MD	old	old.050	MD.A	MSM	plate1	infected	MSM	MSM	
+old.050G	050G	GGD420		41738	P67856		82.8	DutchMSM	65+yr	Overweight	27.00373459	No	TheNetherlands		G	MD	old	old.050	MD.G	MSM	plate1	uninfected	MSM	MSM	
